@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Buy Groceries",
+    "desc": "Milk, Bread, Butter, and Eggs",
+    "completed": false
+  },
+  {
+    "title": "Walk the Dog",
+    "desc": "Take Bella for a 30-minute walk",
+    "completed": true
+  },
+  {
+    "title": "Finish Project Report",
+    "desc": "Complete the final report for the AI project",
+    "completed": true
+  },
+  {
+    "title": "Read a Book",
+    "desc": "Read At least 50 pages of 'The Great Gatsby",
+    "completed": false
+  },
+  {
+    "title": "Revision",
+    "desc": "revise all the lessons you have studied in today's day",
+    "completed": false
+  },
+  {
+    "title": "Family Time",
+    "desc": "Spend Quality time with family and talk about the day ",
+    "completed": false
+  },
+  {
+    "title": "Exercise",
+    "desc": "Do a 30-minute workout ",
+    "completed": true
+  }
+]
